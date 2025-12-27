@@ -19,3 +19,5 @@ One-Click Export: Generates valid .mcaddon files that import directly into Minec
 🛠️ Under the Hood: Built natively for Android using Kotlin, Bedrock Mod Studio manages the file systems, UUID generation, and dependency linking for you. It ensures your Client and Server files are always in sync, so you don't end up with invisible textures or broken behaviors.
 
 👾 State of the Beta: We are currently refining the Animation Logic and Pathfinding systems. If your mob stands still or slides without walking, let us know! Your feedback directly shapes the next update.
+
+https://glitchedneon87.itch.io/bedrock-mod-studio
